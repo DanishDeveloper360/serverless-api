@@ -17,7 +17,7 @@ Resources:
   BlogPostsFunction:
     Type: AWS::Serverless::Function
     Properties:
-      Handler: dev.danvega.serverlessapi.StreamLambdaHandler
+      Handler: dev.serverlessapi.StreamLambdaHandler
       CodeUri: target/serverless-api-0.0.1-SNAPSHOT-lambda-package.zip
       AutoPublishAlias: live
       SnapStart:

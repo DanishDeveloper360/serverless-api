@@ -1,4 +1,4 @@
-package dev.danvega.serverlessapi.post;
+package dev.serverlessapi.post;
 
 import jakarta.annotation.PostConstruct;
 import org.slf4j.Logger;

@@ -1,4 +1,4 @@
-package dev.danvega.serverlessapi;
+package dev.serverlessapi;
 
 import com.amazonaws.serverless.exceptions.ContainerInitializationException;
 import com.amazonaws.serverless.proxy.internal.testutils.Timer;

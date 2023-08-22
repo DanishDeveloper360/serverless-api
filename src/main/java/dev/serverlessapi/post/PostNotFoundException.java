@@ -1,4 +1,4 @@
-package dev.danvega.serverlessapi.post;
+package dev.serverlessapi.post;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

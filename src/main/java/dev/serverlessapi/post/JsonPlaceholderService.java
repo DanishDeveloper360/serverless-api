@@ -1,4 +1,4 @@
-package dev.danvega.serverlessapi.post;
+package dev.serverlessapi.post;
 
 import org.springframework.web.service.annotation.GetExchange;
 
